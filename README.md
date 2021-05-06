@@ -4,4 +4,4 @@ This is a simple tool to generate a custom Arch Linux ISO that automatically run
 # Usage
 Open install_script.sh and edit the script to your liking, anything within the if statement will be run automatically when the image is booted. Once you're done, run generate_iso.sh as root.
 
-The generation process will take some time, once it finishes the custom image "archlinux_custom.iso" should be appear in the directory you ran the script in.
+The generation process will take some time, once it finishes the custom image "archlinux_custom.iso" should appear in the directory you ran the script in.
